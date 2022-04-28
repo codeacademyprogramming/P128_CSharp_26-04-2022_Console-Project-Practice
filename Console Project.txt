@@ -15,8 +15,8 @@ Employee class:
  Department class:
  
  - Name - Departamentin adini ifade edir, departament adi minimum 2 herfden ibaret olmalidir
- - WorkerLimit - Departmanetde maximum var ola bilicek isci sayini ifade edir, minimum 10 ola biler
- - SalaryLimit - Departamentde butun isceleri ayliq cemi verilecek maximum meblegi ifade edir,minimum 10000 ola biler
+ - WorkerLimit - Departmanetde maximum var ola bilicek isci sayini ifade edir, minimum 1 ola biler
+ - SalaryLimit - Departamentde butun isceleri ayliq cemi verilecek maximum meblegi ifade edir,minimum 250 ola biler
  - Employees - Departamentdeki iscileri ifade edir.Departamente elave olunmus iscilerin siyahisini iafe edir
  - CalcSalaryAverage() - departamentdeki iscilerin maas ortalamasini qaytaran method
 
